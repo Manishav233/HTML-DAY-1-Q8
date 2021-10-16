@@ -1,0 +1,11 @@
+.border{
+    border-collapse:collapse;}
+    th,td{
+        font-weight:normal;
+            padding:10px;
+            text-align: center;
+    }
+    
+    p{
+    text-align: center;
+    }
